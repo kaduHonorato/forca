@@ -20,7 +20,7 @@ var palavras = [
     ["bicicleta","É um meio de transporte"],
     ["são paulo","É uma cidade"],
     ["o exterminador do futuro","É um filme"],
-    ["Jennifer Lawrence","É uma atriz"],
+    ["jennifer lawrence","É uma atriz"],
     ["elefante","É um animal"],
     ];
 
